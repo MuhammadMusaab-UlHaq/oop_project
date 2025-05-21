@@ -105,9 +105,9 @@ The application relies on a specific database structure and initial data. We've 
     Right-click `SmartCashProApp.java` and select `Run As > Java Application`.
 
 The application should start and display the login page.
-*   **Default Login:** After running `SmartCashPro.sql`, a default admin user is created. You can log in with:
-    *   **Username:** `admin`
-    *   **Password:** `adminpass`
+*   **Default Login:** After running `SmartCashPro.sql`, a default manager user is created. you can replace manager with cashier to login it with default cashier account. You can log in with:
+    *   **Username:** `Manager1`
+    *   **Password:** `manager1pass`
 
 ## 3. SmartCashPro.sql Database Script
 
